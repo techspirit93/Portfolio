@@ -7,7 +7,7 @@
   
 <h2>🎓 Cyber Security Certifications</h2>
 
-- [Google Cyber Security Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2E5BIJU2Z3IN))
+- [Google Cyber Security Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2E5BIJU2Z3IN)
  
 <h2>🗞️ 40 Days Social Cyber Awareness Articles </h2>
 
