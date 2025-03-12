@@ -1,6 +1,6 @@
-<h1>Hi, I'm Dharsh! <br/><a href="https://github.com/techspirit93">Cyber Security Enthusiast</a>, <a href="https://www.linkedin.com/in/dharshrajah/">Specializing in cloud Security</a>, <a href="https://techspirit.medium.com/">Faith Tech Blogger</a></h1>
+<h1>Hi, I'm Dharsh! <br/><a href="https://github.com/techspirit93">Cyber Security Enthusiast</a>, <a href="https://www.linkedin.com/in/dharshrajah/">Specializing in Cloud Security</a>, <a href="https://techspirit.medium.com/">Faith Tech Blogger</a></h1>
 
-<h2>👨‍💻 Cyber Secuirty Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab - (In Progress)](https://github.com/techspirit93/Laburl)
 - [Home SOC+SIEM Monitoring live attack MS Sentiel 2025 - (In Progress)](https://github.com/techspirit93/Laburl)
